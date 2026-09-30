@@ -3,4 +3,4 @@
 :HL["/__GITHUB_PAGES_BASE__/_next/static/css/fc486572e7a9d41b.css","style"]
 :HL["/__GITHUB_PAGES_BASE__/images/peerless/peerless-logo.svg","image"]
 :HL["/__GITHUB_PAGES_BASE__/images/peerless/peerless-logo-reversed.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"workshop","param":null,"prefetchHints":4192,"slots":{"children":{"name":"explore","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"qOs2h2axL5n0Fh5Gqm6ii"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"workshop","param":null,"prefetchHints":4192,"slots":{"children":{"name":"explore","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"Ri1tl-Ben6jdWF8IvCdVd"}
