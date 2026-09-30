@@ -1,4 +1,4 @@
 :HL["/__GITHUB_PAGES_BASE__/_next/static/css/1b04c38d147dc16d.css","style"]
 :HL["/__GITHUB_PAGES_BASE__/_next/static/css/85f3f4ca9459a5fb.css","style"]
 :HL["/__GITHUB_PAGES_BASE__/_next/static/css/fc486572e7a9d41b.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"workshops","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"nc98yLITKuU2Pgerf9S7B"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"workshops","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"eBXeGstmY1yFjz2shTBMu"}
