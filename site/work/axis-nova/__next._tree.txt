@@ -4,4 +4,4 @@
 :HL["/__GITHUB_PAGES_BASE__/images/peerless/peerless-logo.svg","image"]
 :HL["/__GITHUB_PAGES_BASE__/decks/axis-nova/001.webp","image"]
 :HL["/__GITHUB_PAGES_BASE__/images/peerless/peerless-logo-reversed.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"work","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"axis-nova","siblings":["product-launch-tool"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"4QIGCm4OB_Ft6VbtLOnOM"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"work","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"axis-nova","siblings":["product-launch-tool"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"Z5UfRsxR7GbYa90CgExrh"}
