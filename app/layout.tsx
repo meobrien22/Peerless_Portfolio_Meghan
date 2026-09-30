@@ -8,6 +8,7 @@ import "./pinboard.css";
 import "./about/executive.css";
 import "./bold-theme.css";
 import "./peerless-theme.css";
+import "./sample-brand.css";
 
 export const metadata: Metadata = {
   title: "Meghan Fasano | Visual Design & Communications",

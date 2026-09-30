@@ -337,7 +337,7 @@
       "title": "Measure the work that gets done.",
       "action": "Assign owners and define a bounded manufacturing pilot.",
       "method": "Start with one product family. Establish baseline planning effort and delivery performance, then agree review and stop conditions.",
-      "example": "Use Fabric to connect the evidence and Power BI to tell the delivery story.",
+      "example": "Connect approved data to the evidence and use dashboards to tell the delivery story.",
       "output": "Pilot owners, measures and decision gates",
       "activity": "Explore the pilot plan"
     }
@@ -420,7 +420,7 @@
       "title": "Pilot",
       "objective": "Assign owners and define a bounded manufacturing pilot.",
       "method": "Start with one product family. Establish baseline planning effort and delivery performance, then agree review and stop conditions.",
-      "prompt": "Use Fabric to connect the evidence and Power BI to tell the delivery story.",
+      "prompt": "Connect approved data to the evidence and use dashboards to tell the delivery story.",
       "artifact": "Pilot owners, measures and decision gates"
     }
   ],

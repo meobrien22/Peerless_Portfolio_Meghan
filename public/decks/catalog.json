@@ -630,10 +630,10 @@
   },
   {
     "id": "connected-ai",
-    "title": "Connected AI",
+    "title": "Asterra Connected AI",
     "subtitle": "One connected AI story",
-    "label": "Independent portfolio concept",
-    "description": "An illustrated story that makes a complex AI platform easier to understand.",
+    "label": "Fictional Asterra company concept",
+    "description": "A portfolio concept for fictional company Asterra. An illustrated story that makes a complex AI platform easier to understand.",
     "count": 10,
     "cover": "/__GITHUB_PAGES_BASE__/decks/connected-ai/001.webp",
     "pdf": "",
@@ -641,241 +641,199 @@
       {
         "image": "/__GITHUB_PAGES_BASE__/decks/connected-ai/001.webp",
         "title": "Connected AI",
-        "text": "Connected AI\nAI platform and developer tools.\nBuilt on cloud infrastructure.\nBuild and run AI apps and agents.\nB U I L D\nAI apps\nE M P O W E R\nTeams\nE N A B L E\nUseful work\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n01",
+        "text": "Asterra | Fictional company concept\nConnected AI\nAI platform and developer tools.\nBuilt on cloud infrastructure.\nBuild and run AI apps and agents.\nB U I L D\nAI apps\nE M P O W E R\nTeams\nE N A B L E\nUseful work\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n01",
         "links": []
       },
       {
         "image": "/__GITHUB_PAGES_BASE__/decks/connected-ai/002.webp",
         "title": "The ",
-        "text": "The \ns\nh\ni\nf\nt\nAI is changing how software\nis built and used.\nApps, tools, data, and infrastructure\nare evolving together.\nClassic apps\nApplications\nMiddleware\nData\nInfrastructure\nAI-first stack\nAI apps & agents\nAI models\nConnected data\nCloud infrastructure\nAI\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n02",
+        "text": "Asterra | Fictional company concept\nThe \ns\nh\ni\nf\nt\nAI is changing how software\nis built and used.\nApps, tools, data, and infrastructure\nare evolving together.\nClassic apps\nApplications\nMiddleware\nData\nInfrastructure\nAI-first stack\nAI apps & agents\nAI models\nConnected data\nCloud infrastructure\nAI\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n02",
         "links": []
       },
       {
         "image": "/__GITHUB_PAGES_BASE__/decks/connected-ai/003.webp",
         "title": "One",
-        "text": "One\nc\no\nn\nn\ne\nc\nt\ne\nd\nstack.\nTools and platform on a shared cloud.\nAI apps + agents\nTools + AI platform\nModels + context\nCloud infrastructure\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n03",
+        "text": "Asterra | Fictional company concept\nOne\nc\no\nn\nn\ne\nc\nt\ne\nd\nstack.\nTools and platform on a shared cloud.\nAI apps + agents\nTools + AI platform\nModels + context\nCloud infrastructure\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n03",
         "links": []
       },
       {
         "image": "/__GITHUB_PAGES_BASE__/decks/connected-ai/004.webp",
         "title": "From idea",
-        "text": "From idea\nto \na\ng\ne\nn\nt\n.\nOne possible path, using tools together.\nCode library\nEditor\nAI assistance\nAI\nworkbench\nCloud\nApp or\nagent\nEvaluate\nIdea\nBuild\nTest\nDeploy\nLearn\nIterate\nCreate\nTest\nDeploy\nLearn\nBuild\ntomorrow\ntogether\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n04",
+        "text": "Asterra | Fictional company concept\nFrom idea\nto \na\ng\ne\nn\nt\n.\nOne possible path, using tools together.\nCode library\nEditor\nAI assistance\nAI\nworkbench\nCloud\nApp or\nagent\nEvaluate\nIdea\nBuild\nTest\nDeploy\nLearn\nIterate\nCreate\nTest\nDeploy\nLearn\nBuild\ntomorrow\ntogether\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n04",
         "links": []
       },
       {
         "image": "/__GITHUB_PAGES_BASE__/decks/connected-ai/005.webp",
         "title": "What makes",
-        "text": "What makes\nan agent \nu\ns\ne\nf\nu\nl\n?\nCapabilities you design and control.\nMemory\nContext retained if enabled\nPermissions\nAccess you authorize\nAllowed actions\nTools you enable\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n05",
+        "text": "Asterra | Fictional company concept\nWhat makes\nan agent \nu\ns\ne\nf\nu\nl\n?\nCapabilities you design and control.\nMemory\nContext retained if enabled\nPermissions\nAccess you authorize\nAllowed actions\nTools you enable\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n05",
         "links": []
       },
       {
         "image": "/__GITHUB_PAGES_BASE__/decks/connected-ai/006.webp",
         "title": "How ",
-        "text": "How \nb\nu\ni\nl\nd\ne\nr\ns\nwork.\nBuild. Connect. Govern. Evaluate.\nBuild\nCode tools\nConnect\nShared context\nGovern\nAgent controls\nImprove\nEvaluate\nData\nCheck sources\nControls\nApply + test\nReview\nBefore release\nWorkflow view\nAgents\nData sources\nWorkflows\nTesting\nDeployment\nMonitoring\nMeasure what changes\nBuild\nConnect\nGovern\nEvaluate\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n06",
+        "text": "Asterra | Fictional company concept\nHow \nb\nu\ni\nl\nd\ne\nr\ns\nwork.\nBuild. Connect. Govern. Evaluate.\nBuild\nCode tools\nConnect\nShared context\nGovern\nAgent controls\nImprove\nEvaluate\nData\nCheck sources\nControls\nApply + test\nReview\nBefore release\nWorkflow view\nAgents\nData sources\nWorkflows\nTesting\nDeployment\nMonitoring\nMeasure what changes\nBuild\nConnect\nGovern\nEvaluate\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n06",
         "links": []
       },
       {
         "image": "/__GITHUB_PAGES_BASE__/decks/connected-ai/007.webp",
         "title": "The",
-        "text": "The\nf\ne\ne\nd\nb\na\nc\nk\n \nl\no\no\np\n.\nObserve. Evaluate. Approve. Improve.\nAI\nassistant\nEditor\nAI workbench\nModels + tools\nApps & agents\nTest real workflows\nTested\nupdates\nReview\nHuman oversight\nReview workspace\nHome\nApps\nAgents\nData\nInsights\nQuestions to assess\nResponse quality\nData access\nAction limits\nAssess\nAssess\nAssess\nMeasure\nQuality\nCost + risk\n01\n02\n03\n04\nIDEAS\nPEOPLE\nPRODUCTS\nA BRIGHTER\nTOMORROW\nBUILD\nSCALE\nIMPROVE\nTOGETHER\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n07",
+        "text": "Asterra | Fictional company concept\nThe\nf\ne\ne\nd\nb\na\nc\nk\n \nl\no\no\np\n.\nObserve. Evaluate. Approve. Improve.\nAI\nassistant\nEditor\nAI workbench\nModels + tools\nApps & agents\nTest real workflows\nTested\nupdates\nReview\nHuman oversight\nReview workspace\nHome\nApps\nAgents\nData\nInsights\nQuestions to assess\nResponse quality\nData access\nAction limits\nAssess\nAssess\nAssess\nMeasure\nQuality\nCost + risk\n01\n02\n03\n04\nIDEAS\nPEOPLE\nPRODUCTS\nA BRIGHTER\nTOMORROW\nBUILD\nSCALE\nIMPROVE\nTOGETHER\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n07",
         "links": []
       },
       {
         "image": "/__GITHUB_PAGES_BASE__/decks/connected-ai/008.webp",
         "title": "Why",
-        "text": "Why\nl\ne\na\nd\ne\nr\ns\n \nc\na\nr\ne\n.\nMeasure value, cost, quality, and risk.\nExperience\nquality\nCheck task success.\nTime +\ncost\nCompare total cost.\nRisk +\nreliability\nMonitor and review.\nFrom\npossibility\nto impact\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n08",
+        "text": "Asterra | Fictional company concept\nWhy\nl\ne\na\nd\ne\nr\ns\n \nc\na\nr\ne\n.\nMeasure value, cost, quality, and risk.\nExperience\nquality\nCheck task success.\nTime +\ncost\nCompare total cost.\nRisk +\nreliability\nMonitor and review.\nFrom\npossibility\nto impact\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n08",
         "links": []
       },
       {
         "image": "/__GITHUB_PAGES_BASE__/decks/connected-ai/009.webp",
         "title": "From stack to",
-        "text": "From stack to\nr\ne\na\nl\n \nw\no\nr\nk\n.\nConnect tools to one useful workflow.\nBuild\nDeploy\nUse\nImprove\nHome\nApps\nAgents\nData\nInsights\nWorkflow overview\nBuild, test, and improve with AI\nCreate an app\nBuild an agent\nAnalyze data\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n09",
+        "text": "Asterra | Fictional company concept\nFrom stack to\nr\ne\na\nl\n \nw\no\nr\nk\n.\nConnect tools to one useful workflow.\nBuild\nDeploy\nUse\nImprove\nHome\nApps\nAgents\nData\nInsights\nWorkflow overview\nBuild, test, and improve with AI\nCreate an app\nBuild an agent\nAnalyze data\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n09",
         "links": []
       },
       {
         "image": "/__GITHUB_PAGES_BASE__/decks/connected-ai/010.webp",
         "title": "Build",
-        "text": "Build\nw\nh\na\nt\n \nc\no\nm\ne\ns\n \nn\ne\nx\nt\n.\nStart with one workflow. Measure what changes.\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n10",
+        "text": "Asterra | Fictional company concept\nBuild\nw\nh\na\nt\n \nc\no\nm\ne\ns\n \nn\ne\nx\nt\n.\nStart with one workflow. Measure what changes.\nP E O P L E    +    I D E A S    +    A I    +    G R E AT E R  P O S S I B I L I T I E S\n10",
         "links": []
       }
     ]
   },
   {
-    "id": "frontier-ai",
-    "title": "Frontier AI",
-    "subtitle": "Executive visual narrative",
-    "label": "Independent portfolio concept",
-    "description": "A concise visual narrative about AI and the frontier of work.",
-    "count": 22,
-    "cover": "/__GITHUB_PAGES_BASE__/decks/frontier-ai/001.webp",
+    "id": "ai-storytelling",
+    "title": "The Human Story Behind AI",
+    "subtitle": "AI storytelling · Executive communications",
+    "label": "Fictional Asterra company concept",
+    "description": "A portfolio concept for fictional company Asterra, demonstrating how I turn complex AI capabilities into a clear human story through narrative strategy, art direction and presentation design.",
+    "count": 21,
+    "cover": "/__GITHUB_PAGES_BASE__/decks/ai-storytelling/001.webp",
     "pdf": "",
     "slides": [
       {
-        "image": "/__GITHUB_PAGES_BASE__/decks/frontier-ai/001.webp",
-        "title": "Frontier: AI at work",
-        "text": "Frontier\nAI at work\nMore time for\nwhat matters\nIntelligence in everyday work helps people turn \nambition into action.",
+        "image": "/__GITHUB_PAGES_BASE__/decks/ai-storytelling/001.webp",
+        "title": "The Human Story Behind AI",
+        "text": "Asterra | Fictional company concept\nThe Human Story Behind AI\nMore time for\nwhat matters\nIntelligence in everyday work helps people turn \nambition into action.",
         "links": []
       },
       {
-        "image": "/__GITHUB_PAGES_BASE__/decks/frontier-ai/002.webp",
+        "image": "/__GITHUB_PAGES_BASE__/decks/ai-storytelling/002.webp",
         "title": "Someone is",
-        "text": "Someone is\nwaiting for\nan answer\n“Please make\nthis easier.”\n2",
+        "text": "Asterra | Fictional company concept\nSomeone is\nwaiting for\nan answer\n“Please make\nthis easier.”\n2",
         "links": []
       },
       {
-        "image": "/__GITHUB_PAGES_BASE__/decks/frontier-ai/003.webp",
+        "image": "/__GITHUB_PAGES_BASE__/decks/ai-storytelling/003.webp",
         "title": "Too much",
-        "text": "Too much\ntime between\npeople and\nanswers\nSearching. Copying.\nChasing updates.\n3",
+        "text": "Asterra | Fictional company concept\nToo much\ntime between\npeople and\nanswers\nSearching. Copying.\nChasing updates.\n3",
         "links": []
       },
       {
-        "image": "/__GITHUB_PAGES_BASE__/decks/frontier-ai/004.webp",
+        "image": "/__GITHUB_PAGES_BASE__/decks/ai-storytelling/004.webp",
         "title": "People-led transformation",
-        "text": "People-led transformation\nPeople lead.\nAI helps the\nwork move.\nUseful intelligence.\nTrust at every step.\n4",
+        "text": "Asterra | Fictional company concept\nPeople-led transformation\nPeople lead.\nAI helps the\nwork move.\nUseful intelligence.\nTrust at every step.\n4",
         "links": []
       },
       {
-        "image": "/__GITHUB_PAGES_BASE__/decks/frontier-ai/005.webp",
+        "image": "/__GITHUB_PAGES_BASE__/decks/ai-storytelling/005.webp",
         "title": "Everyday AI assistance",
-        "text": "Everyday AI assistance\nHelp me\nget ready\nSummarize the meeting.\nDraft the follow-up.\nPeople check the result\n5",
+        "text": "Asterra | Fictional company concept\nEveryday AI assistance\nHelp me\nget ready\nSummarize the meeting.\nDraft the follow-up.\nPeople check the result\n5",
         "links": []
       },
       {
-        "image": "/__GITHUB_PAGES_BASE__/decks/frontier-ai/006.webp",
+        "image": "/__GITHUB_PAGES_BASE__/decks/ai-storytelling/006.webp",
         "title": "Workflow automation",
-        "text": "Workflow automation\nHelp me finish\nthe routine\nwork\nExample: arrange a meeting,\nthen send the reminder\nApproved steps. Clear limits.\n6",
+        "text": "Asterra | Fictional company concept\nWorkflow automation\nHelp me finish\nthe routine\nwork\nExample: arrange a meeting,\nthen send the reminder\nApproved steps. Clear limits.\n6",
         "links": []
       },
       {
-        "image": "/__GITHUB_PAGES_BASE__/decks/frontier-ai/007.webp",
+        "image": "/__GITHUB_PAGES_BASE__/decks/ai-storytelling/007.webp",
         "title": "Customer operations",
-        "text": "Customer operations\nHelp us keep\nour promises\nGive the next person\nthe whole story.\n7",
+        "text": "Asterra | Fictional company concept\nCustomer operations\nHelp us keep\nour promises\nGive the next person\nthe whole story.\n7",
         "links": []
       },
       {
-        "image": "/__GITHUB_PAGES_BASE__/decks/frontier-ai/008.webp",
+        "image": "/__GITHUB_PAGES_BASE__/decks/ai-storytelling/008.webp",
         "title": "Connected knowledge",
-        "text": "Connected knowledge\nOur knowledge,\nput to work\nWork\nWork context\nBusiness data\nBusiness meaning\nKnowledge\nShared knowledge\nExternal insight\nOutside information\n8",
+        "text": "Asterra | Fictional company concept\nConnected knowledge\nOur knowledge,\nput to work\nWork\nWork context\nBusiness data\nBusiness meaning\nKnowledge\nShared knowledge\nExternal insight\nOutside information\n8",
         "links": []
       },
       {
-        "image": "/__GITHUB_PAGES_BASE__/decks/frontier-ai/009.webp",
+        "image": "/__GITHUB_PAGES_BASE__/decks/ai-storytelling/009.webp",
         "title": "Data and analytics",
-        "text": "Data and analytics\nHelp me see\nwhat needs\nattention\nBring information together.\nSee the pattern.\n9",
+        "text": "Asterra | Fictional company concept\nData and analytics\nHelp me see\nwhat needs\nattention\nBring information together.\nSee the pattern.\n9",
         "links": []
       },
       {
-        "image": "/__GITHUB_PAGES_BASE__/decks/frontier-ai/010.webp",
+        "image": "/__GITHUB_PAGES_BASE__/decks/ai-storytelling/010.webp",
         "title": "The tools for your builders",
-        "text": "The tools for your builders\nHelp us build\nwhat makes\nus different\nAI assists with code.\nBuild and test AI solutions.\nCloud services run the workload.\n10",
+        "text": "Asterra | Fictional company concept\nThe tools for your builders\nHelp us build\nwhat makes\nus different\nAI assists with code.\nBuild and test AI solutions.\nCloud services run\nthe workload.\n10",
         "links": []
       },
       {
-        "image": "/__GITHUB_PAGES_BASE__/decks/frontier-ai/011.webp",
+        "image": "/__GITHUB_PAGES_BASE__/decks/ai-storytelling/011.webp",
         "title": "Agent oversight",
-        "text": "Agent oversight\nKnow what\nyour agents\nare doing\nGive each an owner.\nSee actions. Set limits.\n11",
+        "text": "Asterra | Fictional company concept\nAgent oversight\nKnow what\nyour agents\nare doing\nGive each an owner.\nSee actions. Set limits.\n11",
         "links": []
       },
       {
-        "image": "/__GITHUB_PAGES_BASE__/decks/frontier-ai/012.webp",
+        "image": "/__GITHUB_PAGES_BASE__/decks/ai-storytelling/012.webp",
         "title": "Trust and security",
-        "text": "Trust and security\nTrust is a\nresponsibility\nIdentity\nWho gets access\nData controls\nHow data is protected\nThreat monitoring\nThreat detection\nDevice controls\nDevice management\nAI assistance\nHelp investigating\n12",
+        "text": "Asterra | Fictional company concept\nTrust and security\nTrust is a\nresponsibility\nIdentity\nWho gets access\nData controls\nHow data is protected\nThreat monitoring\nThreat detection\nDevice controls\nDevice management\nAI assistance\nHelp investigating\n12",
         "links": []
       },
       {
-        "image": "/__GITHUB_PAGES_BASE__/decks/frontier-ai/013.webp",
+        "image": "/__GITHUB_PAGES_BASE__/decks/ai-storytelling/013.webp",
         "title": "Connected capabilities",
-        "text": "Connected capabilities\nA connected\nstarting point\nEveryday work tools\nAI assistance\nAgent oversight\nIdentity and access\nA shared foundation\n13",
+        "text": "Asterra | Fictional company concept\nConnected capabilities\nA connected\nstarting point\nEveryday work tools\nAI assistance\nAgent oversight\nIdentity and access\nA shared foundation\n13",
         "links": []
       },
       {
-        "image": "/__GITHUB_PAGES_BASE__/decks/frontier-ai/014.webp",
+        "image": "/__GITHUB_PAGES_BASE__/decks/ai-storytelling/014.webp",
         "title": "A simple request, handled with care",
-        "text": "A simple request, handled with care\n“I need to change my appointment.”\nAsk\nAI assistant\nPrepare\nContext + agents\nApprove\nA person\nConfirm\nBusiness apps\nPermissions and oversight throughout",
+        "text": "Asterra | Fictional company concept\nA simple request, handled with care\n“I need to change my appointment.”\nAsk\nAI assistant\nPrepare\nContext + agents\nApprove\nA person\nConfirm\nBusiness apps\nPermissions and oversight throughout",
         "links": []
       },
       {
-        "image": "/__GITHUB_PAGES_BASE__/decks/frontier-ai/015.webp",
+        "image": "/__GITHUB_PAGES_BASE__/decks/ai-storytelling/015.webp",
         "title": "What success means",
-        "text": "What success means\naround the leadership table\nCEO\nMore valuable growth\nCFO\nReturn after all costs\nCOO\nReliable execution\nCIO\nUseful, connected systems\nCISO\nRisk under control\nCHRO\nPeople ready and supported\nCMO\nTrust people can feel\nMeasure what improves. Watch what gets worse.\n15",
+        "text": "Asterra | Fictional company concept\nWhat success means\naround the leadership table\nCEO\nMore valuable growth\nCFO\nReturn after all costs\nCOO\nReliable execution\nCIO\nUseful, connected systems\nCISO\nRisk under control\nCHRO\nPeople ready and supported\nCMO\nTrust people can feel\nMeasure what improves. Watch what gets worse.\n15",
         "links": []
       },
       {
-        "image": "/__GITHUB_PAGES_BASE__/decks/frontier-ai/016.webp",
+        "image": "/__GITHUB_PAGES_BASE__/decks/ai-storytelling/016.webp",
         "title": "People and change",
-        "text": "People and change\nPeople make\nthe change\nwork\nYour people + expertise\n+ partners\n16",
+        "text": "Asterra | Fictional company concept\nPeople and change\nPeople make\nthe change\nwork\nYour people + expertise\n+ partners\n16",
         "links": []
       },
       {
-        "image": "/__GITHUB_PAGES_BASE__/decks/frontier-ai/017.webp",
+        "image": "/__GITHUB_PAGES_BASE__/decks/ai-storytelling/017.webp",
         "title": "Your first decision",
-        "text": "Your first decision\nWhich everyday task\nshould feel easier?\n01\nOne workflow\n02\nOne owner\n03\nA clear measure\n04\nA safe way to learn\nChoose the tools after the goal.\n17",
+        "text": "Asterra | Fictional company concept\nYour first decision\nWhich everyday task\nshould feel easier?\n01\nOne workflow\n02\nOne owner\n03\nA clear measure\n04\nA safe way to learn\nChoose the tools after the goal.\n17",
         "links": []
       },
       {
-        "image": "/__GITHUB_PAGES_BASE__/decks/frontier-ai/018.webp",
+        "image": "/__GITHUB_PAGES_BASE__/decks/ai-storytelling/018.webp",
         "title": "More room",
-        "text": "More room\nfor people\nTime to listen.\nSpace to do the work\nonly people can do.\nMeghan Fasano",
+        "text": "Asterra | Fictional company concept\nMore room\nfor people\nTime to listen.\nSpace to do the work\nonly people can do.\nMeghan Fasano",
         "links": []
       },
       {
-        "image": "/__GITHUB_PAGES_BASE__/decks/frontier-ai/019.webp",
+        "image": "/__GITHUB_PAGES_BASE__/decks/ai-storytelling/019.webp",
         "title": "Capability guide",
-        "text": "Capability guide\nThe work, in plain language\nCapability\nWhat it helps with\nEveryday example\nAI assistance\nAssistance in daily work\nPrepare a first draft\nAgent creation\nCreate and publish agents\nHandle a routine request\nApps and workflows\nApps, workflows and websites\nConnect an approval process\nCustomer operations\nSales, service and operations\nFollow through on a promise\nConnected knowledge\nContext for AI\nUse the right company knowledge\nData and analytics\nData and analytics\nFind the cause of a delay\nBuild and run AI\nBuild and operate solutions\nCreate a tailored AI experience\nChoose capabilities around the work your people need to complete.\n19",
+        "text": "Asterra | Fictional company concept\nCapability guide\nThe work, in plain language\nCapability\nWhat it helps with\nEveryday example\nAI assistance\nAssistance in daily work\nPrepare a first draft\nAgent creation\nCreate and publish agents\nHandle a routine request\nApps and workflows\nApps, workflows and websites\nConnect an approval process\nCustomer operations\nSales, service and operations\nFollow through on a promise\nConnected knowledge\nContext for AI\nUse the right company knowledge\nData and analytics\nData and analytics\nFind the cause of a delay\nBuild and run AI\nBuild and operate solutions\nCreate a tailored AI experience\nChoose capabilities around the work your people need to complete.\n19",
         "links": []
       },
       {
-        "image": "/__GITHUB_PAGES_BASE__/decks/frontier-ai/020.webp",
+        "image": "/__GITHUB_PAGES_BASE__/decks/ai-storytelling/020.webp",
         "title": "Capability guide",
-        "text": "Capability guide\nThe trust and support around the work\nCapability\nWhat it helps with\nEveryday example\nAgent oversight\nAgent oversight\nKnow the owner and activity\nIdentity and access\nIdentity and access\nGive the right person access\nData governance\nData security and governance\nProtect sensitive information\nThreat monitoring\nDevice controls\nThreats and devices\nSpot issues and manage devices\nAI security assistance\nAI help for security teams\nInvestigate an alert\nConnected tools\nShared capabilities\nBring productivity and oversight \ntogether\nDelivery partners\nEngineering and organizational \nchange\nBuild, adopt and improve the solution\nClear ownership and shared controls help teams adopt AI responsibly.\n20",
+        "text": "Asterra | Fictional company concept\nCapability guide\nThe trust and support around the work\nCapability\nWhat it helps with\nEveryday example\nAgent oversight\nAgent oversight\nKnow the owner and activity\nIdentity and access\nIdentity and access\nGive the right person access\nData governance\nData security and governance\nProtect sensitive information\nThreat monitoring\nDevice controls\nThreats and devices\nSpot issues and manage devices\nAI security assistance\nAI help for security teams\nInvestigate an alert\nConnected tools\nShared capabilities\nBring productivity and oversight \ntogether\nDelivery partners\nEngineering and organizational \nchange\nBuild, adopt and improve the solution\nClear ownership and shared controls help teams adopt AI responsibly.\n20",
         "links": []
       },
       {
-        "image": "/__GITHUB_PAGES_BASE__/decks/frontier-ai/021.webp",
-        "title": "Explore the story",
-        "text": "Explore the story\nHuman outcomes. Practical capabilities.\n01\nWork and human outcomes\nPeople lead. AI helps the work move.\n02\nPeople and useful intelligence\nWhat success means around the leadership table\n03\nConnected capabilities\nA shared foundation for useful work\n04\nContext and agent oversight\nClear ownership, visible actions and limits\n05\nAdoption and change\nPeople, expertise and delivery partners",
-        "links": [
-          {
-            "x": 0.045,
-            "y": 0.2962962962962963,
-            "w": 0.88,
-            "h": 0.09,
-            "page": 3
-          },
-          {
-            "x": 0.045,
-            "y": 0.40925925925925927,
-            "w": 0.88,
-            "h": 0.09,
-            "page": 14
-          },
-          {
-            "x": 0.045,
-            "y": 0.5222222222222223,
-            "w": 0.88,
-            "h": 0.09,
-            "page": 12
-          },
-          {
-            "x": 0.045,
-            "y": 0.6351851851851852,
-            "w": 0.88,
-            "h": 0.09,
-            "page": 10
-          },
-          {
-            "x": 0.045,
-            "y": 0.7481481481481481,
-            "w": 0.88,
-            "h": 0.09,
-            "page": 15
-          }
-        ]
-      },
-      {
-        "image": "/__GITHUB_PAGES_BASE__/decks/frontier-ai/022.webp",
-        "title": "Frontier",
-        "text": "Frontier\nWhat could\nyour people\nmake possible?\nMeghan Fasano",
+        "image": "/__GITHUB_PAGES_BASE__/decks/ai-storytelling/021.webp",
+        "title": "What could your people make possible?",
+        "text": "Asterra | Fictional company concept\nThe Human Story Behind AI\nWhat could\nyour people\nmake possible?\nMeghan Fasano",
         "links": []
       }
     ]

@@ -1,0 +1,16 @@
+.asterra-identity{display:inline-flex;align-items:center;gap:.28em;color:#153256;white-space:nowrap;font-family:Arial,sans-serif;letter-spacing:-.02em;line-height:1.1}
+.asterra-identity svg{display:block;width:1.35em;height:1.35em;flex:0 0 auto}
+.asterra-identity strong{font-size:1em;font-weight:600}
+.sample-brand{display:flex;align-items:center;gap:16px;margin:0 0 22px;font-size:22px}
+.sample-brand>span:last-child{font-size:11px;font-family:Arial,sans-serif;letter-spacing:.05em;color:#68748a;border-left:1px solid #dbe1ec;padding-left:16px}
+.sample-slide{display:block;position:relative;width:100%;height:auto;line-height:0;container-type:inline-size}
+.sample-slide>img{display:block;width:100%;height:auto}
+.sample-slide-logo{position:absolute;left:42%;bottom:2.1%;width:16%;display:flex;justify-content:center;pointer-events:none;color:#153256;font-size:clamp(8px,1.45cqw,20px);line-height:1;box-sizing:border-box}
+.sample-slide-logo .asterra-identity{background:rgba(255,255,255,.91);padding:.22em .5em;border-radius:.4em;box-shadow:0 1px 7px #15325608}
+.slide-click>.sample-slide{height:100%}
+.slide-click>.sample-slide>img{height:100%;object-fit:contain}
+.slide-thumbs .sample-slide-logo{font-size:5px}
+.sample-brand-note{margin:12px 0 24px;color:#63718a;font-size:13px;line-height:1.7}
+.lc-brand .asterra-identity{font-size:18px}
+.launch-cover-top .asterra-identity{font-size:12px}
+@media(max-width:600px){.sample-brand{font-size:19px;gap:12px}.sample-brand>span:last-child{font-size:10px;padding-left:12px}}
