@@ -420,11 +420,11 @@
     "label": "Fictional portfolio example",
     "description": "A government evaluation narrative that connects data governance to decisions and delivery.",
     "count": 30,
-    "cover": "/__GITHUB_PAGES_BASE__/decks/meridian-arc/001-v3.png",
+    "cover": "/__GITHUB_PAGES_BASE__/decks/meridian-arc/001-spacing-v4.png",
     "pdf": "",
     "slides": [
       {
-        "image": "/__GITHUB_PAGES_BASE__/decks/meridian-arc/001-v3.png",
+        "image": "/__GITHUB_PAGES_BASE__/decks/meridian-arc/001-spacing-v4.png",
         "title": "Enterprise Data and AI Enablement Services (EDAES)",
         "text": "MERIDIAN ARC\n1\nMERIDIAN ARC\nORAL TECHNICAL PRESENTATION · PART III\nEnterprise Data and AI Enablement Services (EDAES)\nA governed path from the data the Agency already owns to decisions \nit can defend.\nEnterprise Data and AI Enablement Services (EDAES) · GSA FEDSIM Task Order Request 26-EDAES-01 · \nAlliant 2 · on behalf of the Agency\nILLUSTRATIVE SAMPLE CONTENT · CONCEPTUAL CASE STUDY\nKey Personnel presenting:  Dana Whitfield (Program Manager)  ·  Rafael Okonkwo-Reyes (Chief Solutions Architect)  ·  Priyanka Sethuraman (Data & AI Delivery Lead)  ·  Marcus Lindqvist \n(Cyber Authorization Lead)",
         "links": []

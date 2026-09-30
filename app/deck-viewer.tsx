@@ -21,7 +21,7 @@ export default function DeckViewer({id,children,triggerClassName='portfolio-butt
  const [contact,setContact]=useState(false),[copied,setCopied]=useState(false),[reading,setReading]=useState(0);
  const viewerRef=useRef<HTMLDivElement>(null),touchStart=useRef<number|null>(null);
  const reduced=()=>typeof window!=='undefined'&&window.matchMedia('(prefers-reduced-motion: reduce)').matches;
- const fetchCatalog=()=>{setCatalogError(false);fetch('/__GITHUB_PAGES_BASE__/decks/catalog.json').then(r=>{if(!r.ok)throw Error();return r.json()}).then(data=>{if(!Array.isArray(data))throw Error();setDecks(data as Deck[])}).catch(()=>setCatalogError(true))};
+ const fetchCatalog=()=>{setCatalogError(false);fetch('/__GITHUB_PAGES_BASE__/decks/catalog.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error();return r.json()}).then(data=>{if(!Array.isArray(data))throw Error();setDecks(data as Deck[])}).catch(()=>setCatalogError(true))};
  useEffect(()=>{fetchCatalog()},[]);
  const openDeck=(d:Deck,auto=false)=>{setSlide(0);setActiveDeck(d);setPlaying(auto&&!reduced());setExpanded(false);setImageError(false);setLoadedImage('')};
  const move=(delta:number,manual=true)=>{if(manual)setPlaying(false);setSlide(s=>Math.max(0,Math.min((activeDeck?.count??1)-1,s+delta)))};
