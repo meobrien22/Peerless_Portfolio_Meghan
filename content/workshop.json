@@ -711,7 +711,7 @@
     {
       "day": "90",
       "title": "Tell the delivery story with data.",
-      "action": "Use Fabric to connect approved order, production and shipment data. Use Power BI to show on-time-in-full delivery, size-level shortfalls, held lots and planning effort.",
+      "action": "Connect approved order, production and shipment data. Use dashboards to show on-time-in-full delivery, size-level shortfalls, held lots and planning effort.",
       "owner": "Operations sponsor + analytics lead",
       "dependency": "Agreed metric definitions, reliable event dates and a measured baseline",
       "measure": "Delivery completeness and timeliness, quality exceptions, rework and planning effort; these are proposed measures, not reported results"
@@ -896,7 +896,7 @@
       "fields": [
         "30 days: Observe planners, quality staff and supply representatives. Test the three planning approaches with anonymized orders.",
         "60 days: After the gates pass, connect approved read-only records. Keep schedule approval and quality release with their owners.",
-        "90 days: Use Fabric to connect approved order, production and shipment data. Use Power BI to show on-time-in-full delivery, size-level shortfalls, held lots and planning effort."
+        "90 days: Connect approved order, production and shipment data. Use dashboards to show on-time-in-full delivery, size-level shortfalls, held lots and planning effort."
       ],
       "notes": []
     }

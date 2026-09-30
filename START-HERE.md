@@ -6,7 +6,7 @@ The easiest upload method for this image-rich site is [GitHub Desktop](https://d
 
 ## 1. Unzip the download
 
-Extract **Meghan-Fasano-Portfolio-New-Photo.zip**. Keep the entire `meghan-fasano-portfolio` folder together.
+Extract **Meghan-Fasano-Portfolio-Connected-AI.zip**. Keep the entire `meghan-fasano-portfolio` folder together.
 
 ## 2. Add the folder to GitHub Desktop
 

@@ -30,5 +30,9 @@ for (const route of ['about', 'workshops']) {
   await mkdir(dir, {recursive:true});
   await writeFile(path.join(dir,'index.html'), `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta http-equiv="refresh" content="0;url=${base}/"><title>Meghan Fasano</title></head><body><a href="${base}/">Continue to Meghan Fasano’s portfolio</a></body></html>`);
 }
+for (const [oldRoute,newRoute] of [['work/core-ai','work/connected-ai'],['work/microsoft-launch-tool','work/product-launch-tool']]) {
+  const dir=path.join(output,oldRoute); await mkdir(dir,{recursive:true});
+  await writeFile(path.join(dir,'index.html'),`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta http-equiv="refresh" content="0;url=${base}/${newRoute}/"><title>Meghan Fasano</title></head><body><a href="${base}/${newRoute}/">Continue to the case study</a></body></html>`);
+}
 await writeFile(path.join(output, '.nojekyll'), '');
 console.log(`Prepared GitHub Pages at ${base || '/'} (${changed} files adjusted).`);

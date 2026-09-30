@@ -1,6 +1,6 @@
 # Meghan Fasano | Peerless Portfolio
 
-This is a GitHub Pages export of Meghan’s portfolio as of September 29, 2026, updated with her newly supplied portrait. It includes the current design, photos, slide images, presentation viewer, project pages and interactive demonstrations, plus the editable source.
+This is a GitHub Pages export of Meghan’s portfolio as of September 30, 2026, with Connected AI and Frontier AI presentations, neutral technology wording and her updated portrait. It includes the current design, photos, slide images, presentation viewer, project pages and interactive demonstrations, plus the editable source.
 
 **Start with START-HERE.md.** The website is already built. You do not need Node.js, a terminal or a build service to publish this copy.
 
