@@ -1,8 +1,8 @@
 {
   "title": "Right gear. Ready on time.",
   "organization": "Northstar Outfitters",
-  "disclosure": "Illustrative workshop for a fictional manufacturer serving U.S. Army supply needs. Research, orders, product specifications, approvals and results are simulated. No Army contract, endorsement or measured outcome is implied.",
-  "challenge": "A manufacturer makes uniforms, boots and textile tactical gear for U.S. Army soldiers. A size-specific boot shortage puts an order at risk while production, inventory and quality teams work from different records.",
+  "disclosure": "Illustrative workshop for a fictional manufacturer serving uniform and equipment supply needs. Research, orders, product specifications, approvals and results are simulated. No customer contract, endorsement or measured outcome is implied.",
+  "challenge": "A manufacturer makes uniforms, boots and textile tactical gear for service members. A size-specific boot shortage puts an order at risk while production, inventory and quality teams work from different records.",
   "recommendation": "Prototype a fulfillment planning agent that brings order requirements, released stock, production capacity and quality evidence into one reviewable recovery plan.",
   "scope": "One fictional order across uniforms, boots and textile tactical gear. Demonstrate the boot shortage first. Compare existing stock with planned production without changing the required item, size or specification. People retain quality release and scheduling authority.",
   "investment": "Proposed: one facilitated workshop with production, quality, customer service, supply representatives and an agent builder, followed by two weeks of prototype research. Confirm data access, decision owners and the baseline before a limited pilot.",

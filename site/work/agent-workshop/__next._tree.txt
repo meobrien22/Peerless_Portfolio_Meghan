@@ -3,4 +3,4 @@
 :HL["/__GITHUB_PAGES_BASE__/_next/static/css/15a48ba1d9b9f709.css","style"]
 :HL["/__GITHUB_PAGES_BASE__/images/peerless/peerless-logo.svg","image"]
 :HL["/__GITHUB_PAGES_BASE__/images/peerless/peerless-logo-reversed.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"work","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"agent-workshop","siblings":["product-launch-tool"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"XPFYAEObh1OCNVyvNWlLp"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"work","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"agent-workshop","siblings":["product-launch-tool"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"Idc8IvLc5tg5v5vgHJh7_"}
