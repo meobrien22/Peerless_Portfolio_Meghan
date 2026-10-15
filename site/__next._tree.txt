@@ -1,7 +1,9 @@
 :HL["/__GITHUB_PAGES_BASE__/_next/static/css/1b04c38d147dc16d.css","style"]
 :HL["/__GITHUB_PAGES_BASE__/_next/static/css/85f3f4ca9459a5fb.css","style"]
-:HL["/__GITHUB_PAGES_BASE__/_next/static/css/d4b99156bca0adfa.css","style"]
+:HL["/__GITHUB_PAGES_BASE__/_next/static/css/15a48ba1d9b9f709.css","style"]
 :HL["/__GITHUB_PAGES_BASE__/images/peerless/peerless-logo.svg","image"]
-:HL["/__GITHUB_PAGES_BASE__/images/meghan-portrait.png","image"]
+:HL["/__GITHUB_PAGES_BASE__/decks/ai-storytelling/001.webp","image"]
+:HL["/__GITHUB_PAGES_BASE__/decks/connected-ai/003.webp","image"]
+:HL["/__GITHUB_PAGES_BASE__/images/launch-preview.webp","image"]
 :HL["/__GITHUB_PAGES_BASE__/images/peerless/peerless-logo-reversed.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"mir3Z47Y6kiJn3TeuuB5W"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"Idc8IvLc5tg5v5vgHJh7_"}
