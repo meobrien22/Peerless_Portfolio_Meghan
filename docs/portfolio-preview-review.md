@@ -1,42 +1,40 @@
-# Artifact-first portfolio preview — 15 October 2026
+# Meghan Fasano — portfolio review
 
-Repository: `meobrien22/Peerless_Portfolio_Meghan`.
-Base: `d28ef60d2e2f5c4f0a4f10dbc584a543405864b1`.
-Review branch: `preview/artifact-first-portfolio`.
+Private preview · 15 October 2026 · Nothing published
 
-## Changes
+The opening now shows actual project imagery at about 697px on desktop and 522px on a 390px phone, compared with about 2,155px previously on desktop. Enterprise storytelling and product design lead the previews and six-project grid. Work navigation, direct Read case study links, slide viewers and interactive destinations are available.
 
-- Preserved the exact existing hero headline, both paragraphs, service bullets, portrait, caption and callouts. No proposed headline replacement is applied.
-- Reorganized the opening around the same portrait and actual slide previews. The first project image moves from 2,155px to 575px at a 1440px viewport; it is visible at 643px on a 390px phone viewport.
-- Added Work navigation and a six-project grid. Each card identifies the business question, actual role and supported output, with separate case-study and slide/prototype/workshop destinations.
-- Kept all original lower-page content, navy/gold branding, contact/résumé actions, attribution and confidentiality/concept labels. The $12B+ figure remains contract wins supported through proposal and storytelling work.
-- Added two thumbnail captures from existing public reconstructed artifacts: the launch workspace and workshop decision map. No new client work or confidential material was introduced.
-- Improved homepage keyboard skip-link focus.
+The three prominent white-and-gold boxes are restored around Meghan's original portrait. Each opens a focused case-study popup:
+
+- Executive storytelling → The Human Story Behind AI.
+- Data made meaningful → Product launch tool.
+- Human-centered AI & design → Right gear. Ready on time.
+
+The original headline, hero paragraphs, service bullets, portrait, caption, identity, contact links and navy/gold branding remain. The $12B+ figure stays attributed to contract wins supported through proposal and storytelling work. Fictional/concept/reconstruction and simulated-outcome labels remain visible.
+
+## Privacy work and remaining decision
+
+Named commercial customer references and identifying engagement details were removed from the résumé. The named federal pursuit was generalized. Microsoft and actual employment history remain. The audit covered source text, alternate text, built output, slide catalog text, 128 slide images, supporting imagery, image metadata, five PDFs (122 pages) and the downloadable slide archive. No targeted commercial customer names remain in the current source or generated public output.
+
+**Publication remains gated:** the fictional Axis Nova sample contains real agency, facility and public procurement references in slide imagery, catalog text, PDF metadata and its download archive. The fictional workshop also names a real government agency. The user is deciding whether these public/fictional references must also be concealed. These samples have not been represented as anonymous or silently rewritten.
 
 ## Verification
 
-- `npm run build`: production compile, TypeScript and all 12 static pages passed.
-- `PAGES_BASE_PATH=/Peerless_Portfolio_Meghan node scripts/prepare-pages.mjs`: prepared and tested the exact deployed subpath.
-- Local Edge/Playwright checks at 1440, 768, 390 and 320 CSS pixels, plus 720px reflow: no whole-page horizontal overflow or broken images.
-- Six case studies and two interactive destinations returned 200; relevant fragment targets exist.
-- 103 internal anchors across exported pages, 24 distinct destinations: no missing local targets.
-- All 128 catalog slide images returned 200. All four slide viewers opened, advanced and remained paused.
-- Contact and résumé dialogs opened; existing email and LinkedIn destinations unchanged.
-- Keyboard skip-link focus, visible outline, Escape close, focus return, Work/About anchors and mobile dialog fit checked. Reduced-motion preference exercised.
-- Hero text segments compared to the original source; portrait file unchanged.
-- No page JavaScript errors or failed local resource requests during verification.
+Production build and TypeScript passed; all 12 static pages exported. All six case studies and both interactive destinations returned 200. All 128 slide assets loaded, and all four slide viewers opened and advanced. There were no missing internal targets, broken images, JavaScript errors or whole-page horizontal overflow at 1440, 768, 390 and 320px, plus a 720px reflow check. All three new popups passed keyboard focus containment, Escape, close-button, focus-return and mobile-fit checks. Original hero text and portrait preservation were verified. Tested in Edge Chromium; Safari and a screen reader were not tested.
 
-Limits: checked in Edge Chromium, not Safari or a screen reader. The 720px check verifies reflow equivalent to a 1440px viewport at 200% zoom, rather than native browser zoom controls.
+## Copy still awaiting review
 
-One incremental build encountered a transient Windows EPERM creating a generated `.next` directory. The same directory was writable on immediate recheck; subsequent complete builds passed without source, permission or security-setting changes.
+The proposed second-sentence order is: “From executive sales decks and keynotes to federal proposal graphics and orals decks, I turn complex inputs into clear, compelling communications.” It is not applied.
 
-## Publish only after approval
+Proposed metadata, also not applied:
 
-The existing `.github/workflows/pages.yml` publishes the prebuilt `site/` plus `public/` whenever `main` receives a push. Source-only changes are insufficient.
+- Title: Meghan Fasano | Presentation Design & Visual Communications
+- Description: Meghan Fasano turns complex business and technology ideas into clear enterprise sales presentations, customer stories, and visual communications, with additional expertise in federal proposal graphics and orals.
 
-1. Review the local preview and approve it, including any later headline change separately.
-2. Push `preview/artifact-first-portfolio` to the same origin repository and create a PR targeting `main`.
-3. Merge the reviewed branch, including the source, assets and rebuilt `site/`. **The merge into main triggers publication.**
-4. Confirm the `Publish portfolio` workflow succeeds and recheck the existing live URL.
+The requested read-only LinkedIn capture could not start: the connected-browser tool exits with “cannot locate required Windows platform directory: HRESULT 0x80070003.” No profile section was read or edited. Restore the Computer Use connection to capture the current headline, About, Experience, Featured and Skills.
 
-No remote branch, pull request or deployment was created during this preview task. No Pages settings or workflow permissions were changed.
+## Exact publication action
+
+Review branch: `preview/artifact-first-portfolio`, in the existing `meobrien22/Peerless_Portfolio_Meghan` repository. Resolve the privacy scope and approve the final preview, then push this branch, open a PR to `main`, and merge the source, assets and rebuilt `site/`. **The merge into `main` triggers the existing “Publish portfolio” GitHub Pages workflow.** No remote branch, PR or deployment was created. No security settings were changed.
+
+The Library screenshots are reviewable on a phone. The interactive preview is local to this Windows computer and has not been exposed publicly.
